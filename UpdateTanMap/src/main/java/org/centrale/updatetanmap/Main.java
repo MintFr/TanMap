@@ -18,7 +18,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- *
+ * See Jackson library for JSON format and url response from website
  * @author 33671
  */
 public class Main {
